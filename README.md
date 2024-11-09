@@ -2,7 +2,7 @@
 
 A powerful and user-friendly Streamlit application that allows users to visualize their data through various interactive charts and graphs. Upload your CSV or Excel files and create beautiful visualizations with customizable colors and chart types!
 
-![Dashboard Preview](assets/dashboard.png)
+![Dashboard Preview](img.png)
 
 ## 🌐 Live Demo
 Try out the live application here: [Chart Visualizer App](https://chart-visualiser.streamlit.app/)
